@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0sW2UTtCN83gsjxAXxpEVBpJyfZO7j7YeHZsOioaMIA=",
+  "Source": "InvoiceExport",
+  "BasePath": "_content/InvoiceExport",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
